@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KiemChungVien">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>KiemChungVien.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LapTrinhVien">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAAAA=</HashCode>
+      <FileName>LapTrinhVien.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NhanVien">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAhAIAAEAAAAAAAAAAAAAAAAIAgBAg=</HashCode>
+      <FileName>NhanVien.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Activity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|solutionrelative:Activity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Activity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|solutionrelative:Activity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Meeting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|solutionrelative:Meeting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Meeting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45BEE2EA-65D3-4370-A31E-BBE0EFE6C01E}|TH_OOP.vcxproj|solutionrelative:Meeting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T07:57:39.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meeting.cpp",
+              "DocumentMoniker": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Meeting.cpp",
+              "RelativeDocumentMoniker": "Meeting.cpp",
+              "ToolTip": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Meeting.cpp",
+              "RelativeToolTip": "Meeting.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T08:53:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Meeting.h",
+              "DocumentMoniker": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Meeting.h",
+              "RelativeDocumentMoniker": "Meeting.h",
+              "ToolTip": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Meeting.h",
+              "RelativeToolTip": "Meeting.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T08:53:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Activity.cpp",
+              "DocumentMoniker": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Activity.cpp",
+              "RelativeDocumentMoniker": "Activity.cpp",
+              "ToolTip": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Activity.cpp",
+              "RelativeToolTip": "Activity.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T08:03:18.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Activity.h",
+              "DocumentMoniker": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Activity.h",
+              "RelativeDocumentMoniker": "Activity.h",
+              "ToolTip": "C:\\code\\OOP\\OOP-TH\\24521556_NGUYEN TRAN TAI\\Activity.h",
+              "RelativeToolTip": "Activity.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T07:57:05.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

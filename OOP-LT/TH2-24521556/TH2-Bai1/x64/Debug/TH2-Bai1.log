@@ -1,0 +1,10 @@
+﻿Xulyphanso.obj : error LNK2005: "public: __cdecl PhanSo::PhanSo(int,int)" (??0PhanSo@@QEAA@HH@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "public: __cdecl PhanSo::PhanSo(void)" (??0PhanSo@@QEAA@XZ) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class PhanSo &)" (??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@AEAVPhanSo@@@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class PhanSo const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVPhanSo@@@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "class PhanSo __cdecl operator*(class PhanSo const &,class PhanSo const &)" (??D@YA?AVPhanSo@@AEBV0@0@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "class PhanSo __cdecl operator-(class PhanSo const &,class PhanSo const &)" (??G@YA?AVPhanSo@@AEBV0@0@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "class PhanSo __cdecl operator+(class PhanSo const &,class PhanSo const &)" (??H@YA?AVPhanSo@@AEBV0@0@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "class PhanSo __cdecl operator/(class PhanSo const &,class PhanSo const &)" (??K@YA?AVPhanSo@@AEBV0@0@Z) already defined in main.obj
+Xulyphanso.obj : error LNK2005: "int __cdecl gcd(int,int)" (?gcd@@YAHHH@Z) already defined in main.obj
+C:\code\OOP\OOP-LT\TH2-24521556\x64\Debug\TH2-Bai1.exe : fatal error LNK1169: one or more multiply defined symbols found

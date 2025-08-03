@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB OOP\\Bai09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|D:\\LAB OOP\\Bai09\\Bai09\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|D:\\LAB OOP\\Bai09\\Bai09\\HinhThoi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\HinhThoi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|D:\\LAB OOP\\Bai09\\Bai09\\HinhVuong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\HinhVuong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|D:\\LAB OOP\\Bai09\\Bai09\\TuGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\TuGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|D:\\LAB OOP\\Bai09\\Bai09\\HinhVuong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\HinhVuong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|D:\\LAB OOP\\Bai09\\Bai09\\HinhThoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12EB9C30-F576-4348-A469-E32C912F2C91}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\HinhThoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HinhThoi.cpp",
+              "DocumentMoniker": "D:\\LAB OOP\\Bai09\\Bai09\\HinhThoi.cpp",
+              "RelativeDocumentMoniker": "Bai09\\HinhThoi.cpp",
+              "ToolTip": "D:\\LAB OOP\\Bai09\\Bai09\\HinhThoi.cpp",
+              "RelativeToolTip": "Bai09\\HinhThoi.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T04:54:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhVuong.cpp",
+              "DocumentMoniker": "D:\\LAB OOP\\Bai09\\Bai09\\HinhVuong.cpp",
+              "RelativeDocumentMoniker": "Bai09\\HinhVuong.cpp",
+              "ToolTip": "D:\\LAB OOP\\Bai09\\Bai09\\HinhVuong.cpp",
+              "RelativeToolTip": "Bai09\\HinhVuong.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T03:03:35.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HinhThoi.h",
+              "DocumentMoniker": "D:\\LAB OOP\\Bai09\\Bai09\\HinhThoi.h",
+              "RelativeDocumentMoniker": "Bai09\\HinhThoi.h",
+              "ToolTip": "D:\\LAB OOP\\Bai09\\Bai09\\HinhThoi.h",
+              "RelativeToolTip": "Bai09\\HinhThoi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T02:55:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HinhVuong.h",
+              "DocumentMoniker": "D:\\LAB OOP\\Bai09\\Bai09\\HinhVuong.h",
+              "RelativeDocumentMoniker": "Bai09\\HinhVuong.h",
+              "ToolTip": "D:\\LAB OOP\\Bai09\\Bai09\\HinhVuong.h",
+              "RelativeToolTip": "Bai09\\HinhVuong.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T02:55:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TuGiac.h",
+              "DocumentMoniker": "D:\\LAB OOP\\Bai09\\Bai09\\TuGiac.h",
+              "RelativeDocumentMoniker": "Bai09\\TuGiac.h",
+              "ToolTip": "D:\\LAB OOP\\Bai09\\Bai09\\TuGiac.h",
+              "RelativeToolTip": "Bai09\\TuGiac.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T02:53:28.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\LAB OOP\\Bai09\\Bai09\\Source.cpp",
+              "RelativeDocumentMoniker": "Bai09\\Source.cpp",
+              "ToolTip": "D:\\LAB OOP\\Bai09\\Bai09\\Source.cpp",
+              "RelativeToolTip": "Bai09\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T02:52:48.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

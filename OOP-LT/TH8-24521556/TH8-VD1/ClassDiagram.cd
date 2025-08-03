@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ve">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAhAAAAAAAAQAEAAAAAAAAAAAAAAAQIAAAAA=</HashCode>
+      <FileName>Ve.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VeTronGoi">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>VeTronGoi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VeTungPhan">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>VeTungPhan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

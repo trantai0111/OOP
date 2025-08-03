@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Vehicle.cpp
+  Generating Code...
+C:\code\OOP\OOP-LT\TH2-24521556\TH2-Bai7\Vehicle.cpp(17,5): error C3861: 'getline': identifier not found
+C:\code\OOP\OOP-LT\TH2-24521556\TH2-Bai7\Vehicle.cpp(19,5): error C3861: 'getline': identifier not found

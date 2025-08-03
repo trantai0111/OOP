@@ -1,0 +1,5 @@
+﻿  Diem.cpp
+  XuLyDiem.cpp
+C:\code\OOP\OOP-LT\TH2-24521556\TH2-Them-Bai1\XuLyDiem.cpp(41,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  TH2-Them-Bai1.vcxproj -> C:\code\OOP\OOP-LT\TH2-24521556\x64\Debug\TH2-Them-Bai1.exe
